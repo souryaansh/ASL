@@ -2,7 +2,7 @@
 
 Instructions(for Windows):
 
-`git clone https://github.com/nayan2000/ASL-Recognizer.git`
+`git clone https://github.com/souryaansh/ASL.git`
 
 Create a new Virtual Environment(say named my_env):
 
